@@ -1,6 +1,4 @@
-{
-"DATA PENGELUARAN ANAK KOST PER BULAN DI TAHUN 2021",				
-"Bulan"	: "Pengeluaran",				
+{								
 "Januari"	: Rp. 550000,			
 "Februari"	: Rp. 500000,				
 "Maret" :	Rp. 600000,	
@@ -13,4 +11,4 @@
 "Oktober" :	Rp. 520000,			
 "November" :	Rp. 500000,				
 "Desember" : Rp. 650000,				
-
+}
